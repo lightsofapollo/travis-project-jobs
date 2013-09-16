@@ -1,6 +1,6 @@
 {
   "name": "travis-project-jobs",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha",
   "description": "Manage multiple job setups for travis ci builds",
   "main": "index.js",
   "bin": {
